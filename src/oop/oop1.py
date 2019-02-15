@@ -25,7 +25,7 @@ class Vehicle:
 class FlightVehicle(Vehicle):
     pass
 
-class StarShip(FlightVehicle):
+class Starship(FlightVehicle):
     pass
 
 class Airplane(FlightVehicle):
